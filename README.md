@@ -1,7 +1,4 @@
 # Conflictos
-
-<<<<<<< HEAD
 Modificación de README 
-=======
 Primer cambio en Readme
->>>>>>> feature/estudianteB
+Se crea un archivo html y un css para darle estilo
